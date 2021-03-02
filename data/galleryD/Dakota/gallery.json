@@ -1,0 +1,71 @@
+{
+    "name": "Dakota",
+    "basePath": "https://www.topknobs.com/media/catalog/product",
+    "gridSize": "small",
+    "images": [
+      {
+        "src": "/B/e/Bergen_Knob_0.jpg",
+        "title": "BERGEN KNOB"
+      },
+      {
+        "src": "/B/i/Bit_Pull_0_rect.jpg",
+        "title": "BIT PULL"
+      },
+      {
+        "src": "/B/u/Buckle_Pull_0_rect.jpg",
+        "title": "BUCKLE PULL"
+      },          
+      {
+        "src": "/C/h/Charlotte_Cup_Pull_0_rect.jpg",
+        "title": "CHARLOTTE CUP PULL"
+      },          
+      {
+        "src": "/C/h/Charlotte_Pull_0_rect.jpg",
+        "title": "CHARLOTTE PULL"
+      },
+      {
+        "src": "/D/a/Dakota_Cup_Pull_0_rect.jpg",
+        "title": "DAKOTA CUP PULL"
+      },
+      {
+        "src": "/D/a/Dakota_Oval_Knob_0.jpg",
+        "title": "DAKOTA OVAL KNOB"
+      },
+      {
+        "src": "/O/v/Oval_Knob_0.jpg",
+        "title": "OVAL KNOB"
+      },
+      {
+        "src": "/A/n/Angle_Pull_0_rect.jpg",
+        "title": "ANGLE PULL"
+      },
+      {
+        "src": "/A/r/Arc_Pull_0_rect.jpg",
+        "title": "ARC PULL"
+      },
+      {
+        "src": "/F/l/Flat_Top_Knob_0.jpg",
+        "title": "FLAT TOP KNOB"
+      },
+      {
+        "src": "/H/u/Hudson_Knob_0.jpg",
+        "title": "HUDSON KNOB"
+      },
+      {
+        "src": "/L/i/Lida_Pull_0_rect.jpg",
+        "title": "LINDA PULL"
+      },
+      {
+        "src": "/P/e/Peak_Knob_0.jpg",
+        "title": "PEAK KNOB"
+      },
+      {
+        "src": "/R/o/Rounded_Knob_0.jpg",
+        "title": "ROUNDED KNOB"
+      },
+      {
+        "src": "/S/a/Saddle_Pull_0_rect.jpg",
+        "title": "SADDLE PULL"
+      }
+    ]
+  }

@@ -1,0 +1,61 @@
+.navbar-brand {
+    font-family: "Times New Roman", Times, serif;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-size: 24px;
+}
+/* change the brand and text color  */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text,
+.navbar-custom .navbar-nav .nav-link {
+    color: white;
+}
+.navbar-custom .navbar-nav .nav-link {
+    font-size: 1.2em;
+}
+.navbar-nav .nav-separator:before {
+    display: none;
+}
+@media (min-width: 768px){
+    .navbar-brand {
+        font-size: 30px;
+    }
+    .navbar-nav .nav-separator:before {
+        color: lightgrey;
+        content: "|";
+        padding: .5rem 0;
+        display: inline-block;
+    }
+}
+
+.left, .right {
+	width: 16px;
+    background-image: url(/images/bk-border-vertical.png);
+    background-size: 16px 64px;
+    background-repeat: repeat-y
+}
+.topleft, .topright, .bottomleft, .bottomright {
+    background-image: url(/images/bk-border-corner.png);
+    width: 16px;
+    height: 16px;
+    background-size: 17px 17px;
+}
+.right, .topright, .bottomright {
+    transform: rotate(180deg)
+}
+/*.topright {*/
+/*    transform: rotate(90deg)*/
+/*}*/
+.top, .bottom {
+	width: -webkit-fill-available;
+	height: 16px;
+    background-image: url(/images/bk-border.png);
+    background-size: 63px 16px;
+    background-repeat: repeat-x
+}
+.bottom, .bottomleft, .bottomright {
+    transform: rotate(180deg)
+}
+/*.bottomleft {*/
+/*    transform: rotate(-90deg)*/
+/*}*/

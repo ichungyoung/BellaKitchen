@@ -1,0 +1,27 @@
+{
+  "name": "Metropolitan",
+  "localPath": "/images/B",
+  "basePath": "https://neatrading.com/img/gallery",
+  "images": [
+    {
+      "src": "/EspressoRaisedPanel.jpg",
+      "title": ""
+    },
+    {
+      "src": "/EspressoShaker.jpg",
+      "title": ""
+    },
+    {
+      "src": "/NaturalShaker.jpg",
+      "title": ""
+    },
+    {
+      "src": "/ThermafoilRaisedPanel.jpg",
+      "title": ""
+    },
+    {
+      "src": "/ThermafoilShaker.jpg",
+      "title": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bella Kitchen</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/79e9d9ed9c.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/css/bella-kitchen.css?v=1">
+    <style>
+        /* Make the image fully responsive */
+        .carousel-inner img {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div id="bkapp">
+        <bk-header></bk-header>
+        <bk-carousel :gallery="carousel"></bk-carousel>
+        <bk-footer></bk-footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="components/bkheader.js?v=7"></script>
+    <script src="components/bkcarousel.js?v=2"></script>
+    <script src="components/bkfooter.js?v=8"></script>
+    <script>
+    
+    var bk=new Vue({
+        el: '#bkapp',
+        data: { 
+                carousel: [
+                {
+                    src: '/images/A/aspen.png',
+                    title: 'Aspen'
+                },
+                {
+                    src: '/images/B/EuroWhite.jpg',
+                    title: 'Euro White'
+                },
+                {
+                    src: '/images/C/parkave-blue.jpg',
+                    title: 'Park Ave'
+                },
+                {
+                    src: '/images/D/britania.jpg',
+                    title: 'Britannia'
+                },
+                {
+                    src: '/images/E/Vienna.jpg',
+                    title: 'Vienna'
+                },
+                {
+                    src: '/images/F/hero-image.jpg',
+                    title: 'Familiar Ground'
+                },
+                {
+                    src: '/images/G/knobs1.png',
+                    title: 'Knobs'
+                }
+            ]
+        }
+    });
+
+   </script>
+</body>
+</html>

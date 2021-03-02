@@ -1,0 +1,31 @@
+{
+  "name": "Gallery B",
+  "basePath": "/images/B",
+  "images": [
+    {
+      "src": "/Paramount.png",
+      "title": "Paramount",
+      "subGallery": "Paramount"
+    },
+    {
+      "src": "/Traditional.png",
+      "title": "Traditional",
+      "subGallery": "Traditional"
+    },
+    {
+      "src": "/Metropolitan.png",
+      "title": "Metropolitan",
+      "subGallery": "Metropolitan"
+    },
+    {
+      "src": "/Classic.png",
+      "title": "Classic",
+      "subGallery": "Classic"
+    },
+    {
+      "src": "/Newarrivals.png",
+      "title": "New Arrivals",
+      "subGallery": "Newarrivals"
+    }
+  ]
+}

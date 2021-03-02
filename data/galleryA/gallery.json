@@ -1,0 +1,58 @@
+{
+  "name": "Gallery A",
+  "basePath": "/images/A",
+  "images": [
+    {
+      "src": "/aspen.png",
+      "title": "Aspen"
+    },
+    {
+      "src": "/boardwalk.jpg",
+      "title": "Boardwalk"
+    },
+    {
+      "src": "/camden.jpg",
+      "title": "Camden"
+    },
+    {
+      "src": "/Fairfield.jpg",
+      "title": "Fairfield"
+    },
+    {
+      "src": "/Gables.jpg",
+      "title": "Gables"
+    },
+    {
+      "src": "/hampton.jpg",
+      "title": "Hampton"
+    },
+    {
+      "src": "/lexington.jpg",
+      "title": "Lexington"
+    },
+    {
+      "src": "/madison.jpg",
+      "title": "Madison"
+    },
+    {
+      "src": "/newport.jpg",
+      "title": "New Port"
+    },
+    {
+      "src": "/prestige.jpg",
+      "title": "Prestige"
+    },
+    {
+      "src": "/rockport.jpg",
+      "title": "Rockport"
+    },
+    {
+      "src": "/sahara.jpg",
+      "title": "Sahara"
+    },
+    {
+      "src": "/venice.jpg",
+      "title": "Venice"
+    }
+  ]
+}

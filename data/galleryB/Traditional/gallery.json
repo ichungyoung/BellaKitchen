@@ -1,0 +1,19 @@
+{
+  "name": "Traditional",
+  "localPath": "/images/B",
+  "basePath": "https://neatrading.com/img/gallery",
+  "images": [
+    {
+      "src": "/Legacy.jpg",
+      "title": ""
+    },
+    {
+      "src": "/Lexington.jpg",
+      "title": ""
+    },
+    {
+      "src": "/Madison.jpg",
+      "title": ""
+    }
+  ]
+}

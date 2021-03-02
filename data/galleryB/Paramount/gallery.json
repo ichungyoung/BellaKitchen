@@ -1,0 +1,27 @@
+{
+  "name": "Paramount",
+  "localPath": "/images/B",
+  "basePath": "https://neatrading.com/img/gallery",
+  "images": [
+    {
+      "src": "/Belmont.jpg",
+      "title": ""
+    },
+    {
+      "src": "/Concord.jpg",
+      "title": ""
+    },
+    {
+      "src": "/Metro.jpg",
+      "title": ""
+    },
+    {
+      "src": "/Westchester.jpg",
+      "title": ""
+    },
+    {
+      "src": "/York.jpg",
+      "title": ""
+    }
+  ]
+}

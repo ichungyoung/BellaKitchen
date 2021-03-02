@@ -1,0 +1,56 @@
+{
+    "name": "Gallery G",
+    "localPath": "/images/G",
+    "basePath": "/images/G",
+    "images": [
+    {
+        "src": "/knobs1.png"
+    },
+    {
+        "src": "/knobs2.png"
+    },
+    {
+        "src": "/knobs3.png"
+    },
+    {
+        "src": "/knobs4.png"
+    },
+    {
+        "src": "/knobs5.png"
+    },
+    {
+        "src": "/knobs6.png"
+    },
+    {
+        "src": "/knobs7.png"
+    },
+    {
+        "src": "/knobs8.png"
+    },
+    {
+        "src": "/knobs9.png"
+    },
+    {
+        "src": "/knobs10.png"
+    },
+    {
+        "src": "/knobs11.png"
+    },
+    {
+        "src": "/knobs12.png"
+    },
+    {
+        "src": "/knobs13.png"
+    },
+    {
+        "src": "/knobs14.png"
+    },
+    {
+        "src": "/knobs15.png"
+    },
+    {
+        "src": "/knobs16.png"
+    }
+    ]
+  }
+  

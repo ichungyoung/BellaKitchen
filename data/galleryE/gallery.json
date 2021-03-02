@@ -1,0 +1,110 @@
+{
+    "name": "Gallery E",
+    "localPath": "/images/E",
+    "basePath": "https://www.blossomus.com/wp-content/uploads/",
+    "gridSize": "small",
+    "images": [
+    {
+        "src": "/0122410_2-1-600x600.jpg",
+        "title": "ATHEN 012"
+    },
+    {
+        "src": "/0052405_1-600x600.jpg",
+        "title": "BARCELONA 005"
+    },
+    {
+        "src": "/0193601CM2LB_1-600x600.jpg",
+        "title": "BERLIN 019"
+    },
+    {
+        "src": "/0242401-1-600x600.jpg",
+        "title": "BIRMINGHAM 024"
+    },
+    {
+        "src": "/0153001_1-600x600.jpg",
+        "title": "BORDEAUX 015"
+    },
+    {
+        "src": "/V8004-18-07.jpg",
+        "title": "COLMAR 004"
+    },
+    {
+        "src": "/0033002_1-600x600.jpg",
+        "title": "DUBAI 003"
+    },
+    {
+        "src": "/0183623_1-600x600.jpg",
+        "title": "JENA 018"
+    },
+    {
+        "src": "/0131601_1-600x600.jpg",
+        "title": "FLORENCE 013"
+    },
+    {
+        "src": "/Brown_Stripes_1-min-1.jpg",
+        "title": "LONDON 009"
+    },
+    {
+        "src": "/0173015-2-600x600.jpg",
+        "title": "LUCCA 017"
+    },
+    {
+        "src": "/0234815D_1-600x600.jpg",
+        "title": "LYON 023"
+    },
+    {
+        "src": "/0072411_1-600x600.jpg",
+        "title": "MADRID 007"
+    },
+    {
+        "src": "/0143020_1-600x600.jpg",
+        "title": "MILAN 014"
+    },
+    {
+        "src": "/0002402WHMC_1-600x600.jpg",
+        "title": "MONACO 000"
+    },
+    {
+        "src": "/0111815_2-600x600.jpg",
+        "title": "NAPLES 011"
+    },
+    {
+        "src": "/0083601_1-600x600.jpg",
+        "title": "PARIS 008"
+    },
+    {
+        "src": "/0223615_1-600x600.jpg",
+        "title": "RIGA 022"
+    },
+    {
+        "src": "/0022415_1-1-600x600.jpg",
+        "title": "ROME 002"
+    },
+    {
+        "src": "/0203601_1-600x600.jpg",
+        "title": "SOFIA 020"
+    },
+    {
+        "src": "/0012415_1-600x600.jpg",
+        "title": "SYDNEY 001"
+    },
+    {
+        "src": "/0162416MC_1-600x600.jpg",
+        "title": "VALENCIA 016"
+    },
+    {
+        "src": "/0062608_1-600x600.jpg",
+        "title": "VENICE 006"
+    },
+    {
+        "src": "/0214801ADM4G_1-600x600.jpg",
+        "title": "VIENNA 021"
+    },
+    {
+        "src": "0253015AM4B_1-600x600.jpg",
+        "title": "YORK 025"
+    }
+    ]
+  }
+  
+

@@ -1,0 +1,27 @@
+{
+  "name": "Classic",
+  "localPath": "/images/B",
+  "basePath": "https://neatrading.com/img/gallery",
+  "images": [
+    {
+      "src": "/CountryOak.jpg",
+      "title": ""
+    },
+    {
+      "src": "/HarmonyRaisedPanel.jpg",
+      "title": ""
+    },
+    {
+      "src": "/HarmonyShaker.jpg",
+      "title": ""
+    },
+    {
+      "src": "/Park.jpg",
+      "title": ""
+    },
+    {
+      "src": "/ParkToffee.jpg",
+      "title": ""
+    }
+  ]
+}

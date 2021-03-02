@@ -1,0 +1,31 @@
+{
+    "name": "Gallery D",
+    "basePath": "https://www.topknobs.com/media/catalog/category",
+    "images": [
+      {
+        "src": "/Dakota_1.jpg",
+        "title": "Dakota",
+        "subGallery": "Dakota"
+      },
+      {
+        "src": "/Normandy_1.jpg",
+        "title": "Normandy",
+        "subGallery": "Normandy"
+      },
+      {
+        "src": "/Britannia_3.jpg",
+        "title": "Britannia",
+        "subGallery": "Britannia"
+      },
+      {
+        "src": "/Asbury_1.jpg",
+        "title": "Asbury",
+        "subGallery": "Asbury"
+      },          
+      {
+        "src": "/Sanctuary_1.jpg",
+        "title": "Sanctuary",
+        "subGallery": "Sanctuary"
+      }
+    ]
+  }

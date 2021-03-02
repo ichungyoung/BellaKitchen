@@ -1,0 +1,30 @@
+{
+    "name": "Gallery D",
+    "basePath": "/images/D",
+    "images": [
+      {
+        "src": "/aspenii_beauty.jpg",
+        "title": "Aspen II"
+      },
+      {
+        "src": "/black1.jpg",
+        "title": "Black"
+      },
+      {
+        "src": "/centinel_kitchen.jpg",
+        "title": "Centinel"
+      },
+      {
+        "src": "/gold.jpg",
+        "title": "Gold"
+      },
+      {
+        "src": "/mercer.jpg",
+        "title": "Mercer"
+      },
+      {
+        "src": "/sutton2.jpg",
+        "title": "Sutton"
+      }
+    ]
+  }

@@ -1,0 +1,42 @@
+{
+  "name": "Gallery C",
+  "basePath": "/images/C",
+  "images": [
+    {
+      "src": "/countryoak-oak.jpg",
+      "title": "Country Oak"
+    },
+    {
+      "src": "/elegant-blue.jpg",
+      "title": "Elegant"
+    },
+    {
+      "src": "/fashion-white.jpg",
+      "title": "Fashion"
+    },
+    {
+      "src": "/harmony-pearl.jpg",
+      "title": "Harmony"
+    },
+    {
+      "src": "/luxor-cinnamon.jpg",
+      "title": "Luxor"
+    },
+    {
+      "src": "/matrix-greystone.jpg",
+      "title": "Matrix"
+    },
+    {
+      "src": "/milano-grey.jpg",
+      "title": "Milano"
+    },
+    {
+      "src": "/parkave-blue.jpg",
+      "title": "Park Avenue"
+    },
+    {
+      "src": "/Sierra-Espresso.jpg",
+      "title": "Sierra"
+    }
+  ]
+}
