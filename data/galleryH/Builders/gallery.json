@@ -1,0 +1,20 @@
+{
+    "name": "Builders",
+    "basePath": "https://www.wolfhomeproducts.com",
+    "gridSize": "small",
+    "images": [
+    {
+      "title": "Shea",
+      "src": "/sites/default/files/img_uploads/2020/07/shea-cinder.jpg"
+    },
+    {
+      "title": "Sierra",
+      "src": "/smugmugimages/i-kPjHF9d/0/O/i-kPjHF9d-O.jpg"
+    },
+    {
+      "title": "Sloane",
+      "src": "/sites/default/files/img_uploads/2020/07/sloane-mocha.jpg"
+    }
+      ]
+  }
+  

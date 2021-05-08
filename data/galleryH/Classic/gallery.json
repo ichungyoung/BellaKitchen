@@ -1,0 +1,32 @@
+{
+    "name": "Classic",
+    "basePath": "https://www.wolfhomeproducts.com",
+    "gridSize": "small",
+    "images": [
+    {
+      "title": "Berwyn",
+      "src": "/sites/default/files/img_uploads/2019/02/Berwyn-Opal-Paint.jpg"
+    },
+    {
+      "title": "Dartmouth",
+      "src": "/smugmugimages/i-wxvSfF4/0/O/i-wxvSfF4-O.jpg"
+    },
+    {
+      "title": "Dartmouth 5-Piece",
+      "src": "/sites/default/files/img_uploads/2018/12/Dartmouth-5-Piece(White-Pain"
+    },
+    {
+      "title": "Hanover",
+      "src": "/sites/default/files/img_uploads/2019/02/Hanover-Grey.jpg"
+    },
+    {
+      "title": "Saginaw",
+      "src": "/smugmugimages/i-fdmC5gq/0/O/i-fdmC5gq-O.jpg"
+    },
+    {
+      "title": "York",
+      "src": "/smugmugimages/i-KnHJnb2/0/O/i-KnHJnb2-O.jpg"
+    }
+      ]
+  }
+  

@@ -1,0 +1,31 @@
+{
+    "name": "Gallery H",
+    "basePath": "https://www.wolfhomeproducts.com",
+    "images": [
+      {
+        "src": "/Dakota_1.jpg",
+        "title": "Signature",
+        "subGallery": "Signature"
+      },
+      {
+        "src": "/Normandy_1.jpg",
+        "title": "Classic",
+        "subGallery": "Classic"
+      },
+      {
+        "src": "/Britannia_3.jpg",
+        "title": "Designer",
+        "subGallery": "Designer"
+      },
+      {
+        "src": "/Asbury_1.jpg",
+        "title": "Endeavor",
+        "subGallery": "Endeavor"
+      },          
+      {
+        "src": "/Sanctuary_1.jpg",
+        "title": "Builders Mark",
+        "subGallery": "Builders"
+      }
+    ]
+  }
