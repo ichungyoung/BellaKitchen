@@ -20,7 +20,7 @@ Vue.component('bk-footer', {
         </span>
         </li>
         <li class="nav-separator d-none d-lg-inline"></li>
-        <li class="nav-item d-none d-lg-inline"><a class="nav-link" href="mailto:bellakitchennj@yahoo.com"><i class="fas fa-envelope fa-md" style="color: white;"></i>bellakitchennj@yahoo.com</a></li>
+        <li class="nav-item d-none d-lg-inline"><a class="nav-link" href="mailto:contact@bellakitchennj.com"><i class="fas fa-envelope fa-md" style="color: white;"></i>contact@bellakitchennj.com</a></li>
         <li class="nav-separator d-none d-lg-inline"></li>
         <li class="nav-item d-none d-lg-inline"><a class="nav-link" href="tel:7327697920"><i class="fas fa-phone-alt fa-md" style="color: white;"></i>  (732) 769-7920</a></li>
         <li class="nav-separator d-none d-lg-inline"></li>

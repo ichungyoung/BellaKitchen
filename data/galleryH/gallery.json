@@ -1,0 +1,31 @@
+{
+    "name": "Gallery H",
+    "basePath": "https://www.wolfhomeproducts.com",
+    "images": [
+      {
+        "src": "/sites/default/files/img_uploads/2020/11/wolf-classic-cabinets.jpg",
+        "title": "Classic",
+        "subGallery": "Classic"
+      },
+      {
+        "src": "/system/files/img_uploads/2021/04/wolf-signature-cabinets.jpg",
+        "title": "Signature",
+        "subGallery": "Signature"
+      },
+      {
+        "src": "/smugmugimages/i-NwDrPVr/0/7218a7f7/O/i-NwDrPVr-O.jpg",
+        "title": "Designer",
+        "subGallery": "Designer"
+      },
+      {
+        "src": "/sites/default/files/img_uploads/2020/11/wolf-endeavor.jpg",
+        "title": "Endeavor",
+        "subGallery": "Endeavor"
+      },          
+      {
+        "src": "/sites/default/files/img_uploads/2019/09/builders-mark-header.jpg",
+        "title": "Builders Mark",
+        "subGallery": "Builders"
+      }
+    ]
+  }

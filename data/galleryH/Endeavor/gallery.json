@@ -1,0 +1,11 @@
+{
+    "name": "Endeavor",
+    "basePath": "https://www.wolfhomeproducts.com",
+    "gridSize": "small",
+    "images": [
+    {
+      "title": "Emerson",
+      "src": "/sites/default/files/img_uploads/2020/04/endeavor-emerson-polar.jpg"
+    }
+      ]
+  }

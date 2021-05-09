@@ -45,36 +45,7 @@
             el: '#gallery',
             data: { 
             galleryFile: '',
-            galleries: [
-                { 
-                    galleryFile: 'galleryA',
-                    galleryName: 'Gallery A'
-                },
-                { 
-                    galleryFile: 'galleryB',
-                    galleryName: 'Gallery B'
-                },
-                { 
-                    galleryFile: 'galleryC',
-                    galleryName: 'Gallery C'
-                },
-                { 
-                    galleryFile: 'galleryD',
-                    galleryName: 'Gallery D'
-                },
-                { 
-                    galleryFile: 'galleryE',
-                    galleryName: 'Gallery E'
-                },
-                { 
-                    galleryFile: 'galleryF',
-                    galleryName: 'Gallery F'
-                },
-                { 
-                    galleryFile: 'galleryG',
-                    galleryName: 'Gallery G'
-                },
-            ]
+            galleries: []
            },
            methods: {
              setGallery(file) {
@@ -82,15 +53,22 @@
              },
            },
            mounted() {
-               if (this.galleries.length>0) {
-                   var idx = parseInt(window.location.hash?window.location.hash.substr(1):"0");
-                   console.log(idx);
-                   if (idx>=this.galleries.length) {
-                       idx = 0;
-                   }
-                   this.setGallery(this.galleries[idx].galleryFile);
-               }
-           }
+            fetch('./data/galleries.json')
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data);
+                    this.galleries=data;
+                    if (this.galleries.length>0) {
+                        var idx = parseInt(window.location.hash?window.location.hash.substr(1):"0");
+                        console.log(idx);
+                        if (idx>=this.galleries.length) {
+                            idx = 0;
+                        }
+                        this.setGallery(this.galleries[idx].galleryFile);
+                    }
+                })
+                .catch(err => console.log(error));
+            }
         });
 
         </script>

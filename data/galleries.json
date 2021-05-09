@@ -1,0 +1,34 @@
+[
+    { 
+        "galleryFile": "galleryA",
+        "galleryName": "Gallery A"
+    },
+    { 
+        "galleryFile": "galleryB",
+        "galleryName": "Gallery B"
+    },
+    { 
+        "galleryFile": "galleryC",
+        "galleryName": "Gallery C"
+    },
+    { 
+        "galleryFile": "galleryD",
+        "galleryName": "Gallery D"
+    },
+    { 
+        "galleryFile": "galleryE",
+        "galleryName": "Gallery E"
+    },
+    { 
+        "galleryFile": "galleryF",
+        "galleryName": "Gallery F"
+    },
+    { 
+        "galleryFile": "galleryG",
+        "galleryName": "Gallery G"
+    },
+    { 
+        "galleryFile": "galleryH",
+        "galleryName": "Gallery H"
+    }
+]
