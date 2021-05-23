@@ -1,6 +1,6 @@
 {
     "name": "Gallery E",
-    "localPath": "/images/E",
+    "localPath": "images/E",
     "basePath": "https://www.blossomus.com/wp-content/uploads/",
     "gridSize": "small",
     "images": [

@@ -1,6 +1,7 @@
 {
   "name": "Gallery A",
-  "basePath": "/images/A",
+  "brand": "Adornus",
+  "basePath": "images/A",
   "images": [
     {
       "src": "/aspen.png",

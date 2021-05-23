@@ -1,6 +1,6 @@
 {
   "name": "Gallery B",
-  "basePath": "/images/B",
+  "basePath": "images/B",
   "images": [
     {
       "src": "/Paramount.png",

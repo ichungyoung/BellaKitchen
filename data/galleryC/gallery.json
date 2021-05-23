@@ -1,6 +1,7 @@
 {
   "name": "Gallery C",
-  "basePath": "/images/C",
+  "brand": "CNC",
+  "basePath": "images/C",
   "images": [
     {
       "src": "/countryoak-oak.jpg",

@@ -1,7 +1,7 @@
 {
     "name": "Gallery G",
-    "localPath": "/images/G",
-    "basePath": "/images/G",
+    "localPath": "images/G",
+    "basePath": "images/G",
     "images": [
     {
         "src": "/knobs1.png"

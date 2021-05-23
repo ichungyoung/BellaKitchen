@@ -13,8 +13,8 @@ Vue.component('bk-footer', {
         <li class="nav-item">
         <span class="nav-link" >
         <a href="https://www.facebook.com/Bella-Kitchen-nj-110265187241600/"><i class="fab fa-facebook-f fa-lg" style="color: white;"></i></a>
-        <a href="https://www.instagram.com/bella.kitchen.nj/"><i class="fab fa-instagram fa-lg" style="color: white; margin-left: 16px;"></i></a>
-        <a class="d-inline d-lg-none" href="mailto:bellakitchennj@yahoo.com"><i class="fas fa-envelope fa-lg" style="color: white; margin-left: 16px;"></i></a>
+        <a href="https://www.instagram.com/bella_kitchen_nj/"><i class="fab fa-instagram fa-lg" style="color: white; margin-left: 16px;"></i></a>
+        <a class="d-inline d-lg-none" href="mailto:contact@bellakitchennj.com"><i class="fas fa-envelope fa-lg" style="color: white; margin-left: 16px;"></i></a>
         <a class="d-inline d-lg-none" href="tel:7327697920"><i class="fas fa-phone-alt fa-lg" style="color: white; margin-left: 16px;"></i></a>
         <a class="d-inline d-lg-none" href="tel:7322163115"><i class="fas fa-mobile-alt fa-lg" style="color: white; margin-left: 16px;"></i></a>
         </span>
