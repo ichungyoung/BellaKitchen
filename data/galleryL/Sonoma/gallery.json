@@ -1,0 +1,48 @@
+{
+    "name": "Sonoma",
+    "brand": "Lauzon",
+    "basePath": "https://lauzonflooring.com/wp-content/uploads",
+    "gridSize": "tiny",
+    "images": [
+        {
+            "src": "/2019/10/white-oak-hardwood-flooring-brown-crema-sonoma-designer-lauzon-1-200x200.jpg",
+            "title": "Crema"
+        },
+        {
+            "src": "/2019/10/white-oak-hardwood-flooring-brown-morningmist-sonoma-designer-lauzon-1-200x200.jpg",
+            "title": "Morning Mist"
+        },
+        {
+            "src": "/2019/10/white-oak-hardwood-flooring-light-serenity-sonoma-designer-lauzon-reworked-200x200.jpg",
+            "title": "Serenity"
+        },
+        {
+            "src": "/2019/10/white-oak-hardwood-flooring-natural-natural-sonoma-designer-lauzon-1-200x200.jpg",
+            "title": "Natural"
+        },
+        {
+            "src": "/2019/10/white-oak-hardwood-flooring-taupe-soave-sonoma-designer-lauzon-1-200x200.jpg",
+            "title": "Soave"
+        },
+        {
+            "src": "/2019/10/white-oak-hardwood-flooring-taupe-cactus-sonoma-designer-lauzon-1-200x200.jpg",
+            "title": "Cactus"
+        },
+        {
+            "src": "/2019/10/white-oak-hardwood-flooring-grey-clementhill-sonoma-designer-lauzon-1-200x200.jpg",
+            "title": "Clement Hill"
+        },
+        {
+            "src": "/2019/10/white-oak-hardwood-flooring-brown-cork-sonoma-designer-lauzon-1-1-200x200.jpg",
+            "title": "Cork"
+        },
+        {
+            "src": "/2019/10/white-oak-hardwood-flooring-brown-darkearth-sonoma-designer-lauzon-1-200x200.jpg",
+            "title": "Dark Earth"
+        },
+        {
+            "src": "/2019/10/white-oak-hardwood-flooring-brown-blackcape-sonoma-designer-lauzon-1-1-200x200.jpg",
+            "title": "Black Cape"
+        }
+    ]
+}

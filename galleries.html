@@ -29,45 +29,20 @@
     <body>
         <div id="gallery">
             <bk-header></bk-header>
-            <div class="text-center">
-              <span class="gallery-crumb" 
-              v-for="g in galleries" @click="setGallery(g.galleryFile)">{{g.galleryName}}</span>
-            </div>
-            <bk-gallery :gallery-file="galleryFile"></bk-gallery>
+            <bk-galleries :galleries-file="galleryFile"></bk-gallery>
             <bk-footer></bk-footer>
         </div>
-        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
         <script src="components/bkheader.js?v=7"></script>
         <script src="components/bkfooter.js?v=7"></script>
+        <script src="components/bksubmenu.js?v=2"></script>
         <script src="components/bkgallery.js?v=2"></script>
+        <script src="components/bkgalleries.js?v=2"></script>
         <script>
         var bk=new Vue({
             el: '#gallery',
             data: { 
-            galleryFile: '',
-            galleries: []
-           },
-           methods: {
-             setGallery(file) {
-               this.galleryFile = file;
-             },
-           },
-           mounted() {
-            fetch('./data/galleries.json')
-                .then(response => response.json())
-                .then(data => {
-                    console.log(data);
-                    this.galleries=data;
-                    if (this.galleries.length>0) {
-                        var idx = parseInt(window.location.hash?window.location.hash.substr(1):"0");
-                        console.log(idx);
-                        if (idx>=this.galleries.length) {
-                            idx = 0;
-                        }
-                        this.setGallery(this.galleries[idx].galleryFile);
-                    }
-                })
-                .catch(err => console.log(err));
+                galleryFile: '/',
             }
         });
 

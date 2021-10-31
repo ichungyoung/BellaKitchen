@@ -1,0 +1,24 @@
+{
+    "name": "GalleryM",
+    "brand": "Mannington",
+    "basePath": "https://www.mannington.com/-/media/Images",
+    "gridSize": "reg",
+    "images": [
+        {
+            "src": "/2021_hero_categories_aduravinylplank.jpg?h=468&la=en&w=1098&hash=0DF713DFB1C1793106C67F2A0FFB15286C872694",
+            "title": "Vinyl Plank"
+        },
+        {
+            "src": "/2019-redesign/product-category-headers/hero_categories_hardwood/hero_categories_hardwood/2021_hero_categories_hardwood_MountainViewXL_Platinum_MVXL06PT1.jpg?h=468&la=en&w=1098&hash=60F21418CDFCD39EA2E190039FA85226461181D3",
+            "title": "Hardwood"
+        },
+        {
+            "src": "/2019-redesign/product-category-headers/hero_categories_laminate/hero_categories_laminate/2021_hero_categories_laminate.jpg?h=468&la=en&w=1098&hash=B1D6C630CBEBE6F19A3926BD7CBA657CE04EB697",
+            "title": "Laminate"
+        },
+        {
+            "src": "/2019-redesign/product-category-headers/hero_categories_vinylsheet.jpg?h=468&la=en&w=1098&hash=79064E75EFE4732416668A3AA18886F8451FDEB5",
+            "title": "Vinyl Sheet"
+        }
+    ]
+}

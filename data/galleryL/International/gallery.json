@@ -1,0 +1,20 @@
+{
+    "name": "International",
+    "brand": "Lauzon",
+    "basePath": "https://lauzonflooring.com/wp-content/uploads",
+    "gridSize": "tiny",
+    "images": [
+        {
+            "src": "/2014/06/african-sapele-hardwood-flooring-brown-international-natural-designer-lauzon-200x200.jpg",
+            "title": "NATURAL (African Sapele)"
+        },
+        {
+            "src": "/2014/06/santos-mahogany-hardwood-flooring-brown-natural-international-designer-lauzon-200x200.jpg",
+            "title": "NATURAL (Santos Mahogany)"
+        },
+        {
+            "src": "/2014/06/brazilian-cherry-hardwood-flooring-brown-international-natural-designer-lauzon-200x200.jpg",
+            "title": "NATURAL (Brazilian Cherry)"
+        }
+    ]
+}

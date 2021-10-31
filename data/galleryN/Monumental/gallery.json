@@ -1,0 +1,20 @@
+{
+    "name": "Monumental",
+    "brand": "StoneCast",
+    "basePath": "https://images.squarespace-cdn.com/content/v1/5fc01e56e5c7695ca99768f5",
+    "gridSize": "reg",
+    "images": [
+        {
+            "src": "/1610574883920-IQT3KE3662JKTLU5Z905/Monumental+-+526+607+-+Twilight+Stone+Multi-Tile+%28RGB%29.jpg?format=1000w",
+            "title": "Twilight Stone"
+        },
+        {
+            "src": "/1608306686101-6C6A0LGWYO2WH08RLN5Y/Monumental+-+526+604+-+Latte+Stone+-+Room+Scene+%28RGB%29.jpg?format=1000w",
+            "title": "Latte Stone"
+        },
+        {
+            "src": "/1610574884043-L2JC7KQRDVDV5UKVPNM5/Monumental+-+526+604+-+Latte+Stone+Multi-Tile+%28RGB%29.jpg?format=1000w",
+            "title": "Latte Stone"
+        }
+    ]
+}

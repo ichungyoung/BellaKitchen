@@ -1,0 +1,28 @@
+{
+    "name": "Emira",
+    "brand": "Lauzon",
+    "basePath": "https://lauzonflooring.com/wp-content/uploads",
+    "gridSize": "tiny",
+    "images": [
+        {
+            "src": "/2016/01/hickory-hardwood-flooring-light-persia-emira-ambiance-lauzon1-200x200.jpg",
+            "title": "Persia"
+        },
+        {
+            "src": "/2014/06/hickory-hardwood-flooring-natural-natural-emira-ambiance-lauzon-200x200.jpg",
+            "title": "Natural"
+        },
+        {
+            "src": "/2015/03/hickory-hardwood-flooring-brown-madera-emira-ambiance-lauzon-200x200.jpg",
+            "title": "Madera"
+        },
+        {
+            "src": "/2015/03/hickory-hardwood-flooring-brown-sabbia-emira-ambiance-lauzon-200x200.jpg",
+            "title": "Sabbia"
+        },
+        {
+            "src": "/2015/03/hickory-hardwood-flooring-brown-tunga-emira-ambiance-lauzon-200x200.jpg",
+            "title": "Tunga"
+        }
+    ]
+}

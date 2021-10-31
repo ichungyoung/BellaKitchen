@@ -1,0 +1,52 @@
+{
+    "name": "Gallery S",
+    "brand": "Somerset",
+    "basePath": "https://www.somersetfloors.com/assets/files/Collection Images",
+    "gridSize": "reg",
+    "images": [
+        {
+            "src": "/lg_SOMERSET_COLORSTRIP_SMOKE_room.jpg",
+            "title": "Color Strip"
+        },
+        {
+            "src": "/home1.jpg",
+            "title": "Homestyle"
+        },
+        {
+            "src": "/lg_SOMERSET_COLORPLANK_SMOKE_room.jpg",
+            "title": "Color Plank"
+        },
+        {
+            "src": "/lg_gloss.jpg",
+            "title": "High Gloss"
+        },
+        {
+            "src": "/lg_flooring.jpg",
+            "title": "Classic"
+        },
+        {
+            "src": "/lg_SOMERSET_CHARACTER_WHITEOAK_room-nochair.jpg",
+            "title": "Character"
+        },
+        {
+            "src": "/lg_SOMERSET_SPECIALTY_HICKORYMOONLIGHT_room.jpg",
+            "title": "Specialty"
+        },
+        {
+            "src": "/lg_SOMERSET_WIDEPLANK_MAPLEMIST_room.jpg",
+            "title": "Wide Plank"
+        },
+        {
+            "src": "/lg_SOMERSET_HANDCRAFTED_ROYALBROWN_room.jpg",
+            "title": "Hand Crafter"
+        },
+        {
+            "src": "/lg_SOMERSET_CLASSICCHARACTER_GUNSTOCK_room-vign.jpg",
+            "title": "Classic Character"
+        },
+        {
+            "src": "/lg_SOMERSET_TRADITIONAL_NATURALOAK_room.jpg",
+            "title": "Traditional"
+        }
+    ]
+}

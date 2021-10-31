@@ -1,0 +1,20 @@
+{
+    "name": "Hamptons",
+    "brand": "Lauzon",
+    "basePath": "https://lauzonflooring.com/wp-content/uploads",
+    "gridSize": "tiny",
+    "images": [
+        {
+            "src": "/2014/06/hard-maple-hardwood-flooring-white-bianco-elements-designer-lauzon-200x200.jpg",
+            "title": "BIANCO"
+        },
+        {
+            "src": "/2014/06/white-oak-hardwood-flooring-natural-quartersawn-elements-designer-lauzon-200x200.jpg",
+            "title": "NATURAL"
+        },
+        {
+            "src": "/2014/06/red-oak-hardwood-flooring-black-onyx-elements-designer-lauzon-200x200.jpg",
+            "title": "ONYX"
+        }
+    ]
+}

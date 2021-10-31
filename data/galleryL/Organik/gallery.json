@@ -1,0 +1,44 @@
+{
+    "name": "Organik",
+    "brand": "Lauzon",
+    "basePath": "https://lauzonflooring.com/wp-content/uploads",
+    "gridSize": "tiny",
+    "images": [
+        {
+            "src": "https://lauzonflooring.com/wp-content/uploads/2019/03/hard-maple-hardwood-flooring-brown-natura-select-better-organik-ambiance-lauzon-200x200.jpg",
+            "title": "Natura"
+        },
+        {
+            "src": "https://lauzonflooring.com/wp-content/uploads/2019/03/hard-maple-hardwood-flooring-brown-natura-character-organik-ambiance-lauzon-200x200.jpg",
+            "title": "Natura"
+        },
+        {
+            "src": "https://lauzonflooring.com/wp-content/uploads/2019/03/hard-maple-hardwood-flooring-brown-natura-tradition-organik-ambiance-lauzon-200x200.jpg",
+            "title": "Natura"
+        },
+        {
+            "src": "https://lauzonflooring.com/wp-content/uploads/2017/01/F_219-hard-maple-hardwood-flooring-grey-brown-charm-organik-sombra-expert-designer-lauzon-200x200.jpg",
+            "title": "Sombra"
+        },
+        {
+            "src": "https://lauzonflooring.com/wp-content/uploads/2017/01/F_212-plancher-de-bois-erable-gris-brun-charme-organik-sombra-designer-lauzon-200x200.jpg",
+            "title": "Sombra"
+        },
+        {
+            "src": "https://lauzonflooring.com/wp-content/uploads/2017/01/F_217-hard-maple-hardwood-flooring-grey-charm-organik-minera-expert-designer-lauzon-200x200.jpg",
+            "title": "Minera"
+        },
+        {
+            "src": "https://lauzonflooring.com/wp-content/uploads/2017/01/F_210-plancher-de-bois-erable-gris-charme-organik-minera-designer-lauzon-200x200.jpg",
+            "title": "Minera"
+        },
+        {
+            "src": "https://lauzonflooring.com/wp-content/uploads/2017/01/F_218-hard-maple-hardwood-flooring-brown-charm-organik-rustica-expert-designer-lauzon-200x200.jpg",
+            "title": "Rustica"
+        },
+        {
+            "src": "https://lauzonflooring.com/wp-content/uploads/2017/01/F_211-plancher-de-bois-erable-brun-charme-organik-rustica-designer-lauzon-200x200.jpg",
+            "title": "Rustica"
+        }
+    ]
+}

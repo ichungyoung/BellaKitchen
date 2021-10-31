@@ -1,30 +1,31 @@
 Vue.component('bk-gallery', {
-    template: `<div v-if="gallery && gallery.basePath">
-    <h2 class="text-center">
-      <span v-for="crumb in breadCrumb">
-        <a @click="gotoBreadCrumb(crumb)">{{ crumb.galleryName }}</a> - 
-      </span>
-      {{gallery.name}}
-    </h2>
-    <div class="row m-3 justify-content-center">
-    <div :class="gridClass" v-for="cab in gallery.images">
-      <a class="imglnk" @click="setSubGallery(cab.subGallery)">
-      <img class="card-image-top" :src="gallery.basePath+cab.src" 
+    template: `
+<div v-if="gallery && gallery.basePath">
+  <bk-submenu 
+     :items=gallery.images
+     :currentSubGalleryFile=currentGalleryFile
+     @change-menu=setSubGallery
+  ></bk-submenu>
+  <div class="row m-3 justify-content-center">
+    <div :class="gridClass" v-for="cab in displayGallery.images">
+      <a class="imglnk" @click="set3rdSubGallery(cab.subGallery)">
+      <img class="card-image-top" :src="displayGallery.basePath+cab.src" 
         style="width: 100%; transition: all .25s ease-out;" alt="card image cap"></a>
       <div class="card-body">
         <div class="card-title">{{ cab.title }}</div>
       </div>
     </div>
-</div>
+  </div>
 </div>`,
     props: {
-      galleryFile: { type: String }
+      baseGallery: { type: String },
+      gallery: {}
     },
     data() {
         return {
-          breadCrumb: [],
-          gallery: null,
+          galleryFile: '',
           currentGalleryFile: '',
+          currentSubGallery: null,
           gridClass: 'col-xl-4 col-lg-6',
           bigGridClass: 'col-xl-4 col-lg-6',
           regGridClass: 'col-xl-3 col-lg-4 col-md-6',
@@ -33,27 +34,41 @@ Vue.component('bk-gallery', {
         };
     },
     computed: {
+      displayGallery() {
+        return (this.currentSubGallery ? this.currentSubGallery : this.gallery);
+      }
     },
     watch: {
-      galleryFile: function(newVal, oldVal) {
-        this.setDefaultGallery();
+      baseGallery: function(newVal, oldVal) {
+        console.log(`bkgallery old=${oldVal} new=${newVal}`)
+        this.currentGalleryFile=newVal
+        this.galleryFile=newVal
+        this.currentSubGallery = null;
+        // this.setDefaultGallery();
       }
     },
     methods: {
       getGalleryJsonFile(file) {
-        var fileName = '/data/';
-        for (var i=0; i<this.breadCrumb.length; i++) {
-          var c = this.breadCrumb[i];
-          fileName += c.galleryFile + '/'
+        //console.log(`file=${file} baseGallery=${this.baseGallery} galleryFile=${this.galleryFile} currentGalleryFile=${this.currentGalleryFile}`)
+        var fileName = '/data';
+        if (this.baseGallery!='/') {
+          // fileName += `/${this.baseGallery}/`;
+          if (this.galleryFile && this.baseGallery!=this.galleryFile) {
+            fileName += `/${this.galleryFile}`;
+          }
+          //console.log(`2nd file=${file} baseGallery=${this.baseGallery} galleryFile=${this.galleryFile} currentGalleryFile=${this.currentGalleryFile}`)
+          if (file!=this.galleryFile) {
+            fileName += `/${file}`;
+            //console.log(`fileName=${fileName} `)
+          }
         }
-        fileName += file + '/gallery.json'
-                  console.log(`filename ${fileName}`);
+        fileName += '/gallery.json'
+        //console.log(`bkgallery filename ${fileName}`);
         return fileName;
       },
       getGallery(file) {
+        //console.log(`bkgallery.geGallery ${file}`);
         if (file) {
-          this.currentGalleryFile = file;
-          console.log(`getting ${file}`);
             var myHeaders = new Headers();
             myHeaders.append('pragma', 'no-cache');
             myHeaders.append('cache-control', 'no-cache');
@@ -75,35 +90,41 @@ Vue.component('bk-gallery', {
                 this.gridClass = this.bigGridClass;
               }
             }
-            this.gallery = res;
+            this.currentSubGallery = res;
+            // if (this.currentSubGallery==null) {
+              // this.currentSubGallery=this.gallery;
+            // }
+          })
+          .catch( reason => {
+            this.currentSubGallery = null;
+            //console.error(`fetch failed. reason=${reason}`);
           });
         }
       },
-      addBreadChumb(crumb) {
-        this.breadCrumb.push(crumb);
-      },
-      gotoBreadCrumb(crumb) {
-        var lastIdx = -1;
-        for(var i=0; i<this.breadCrumb.length; i++) {
-          if (crumb.galleryFile===this.breadCrumb[i].galleryFile) {
-            lastIdx = i;
-            break;
-          }
-        }
-        if (lastIdx>=0) {
-          this.breadCrumb.length = lastIdx;
-          this.getGallery(crumb.galleryFile);
-        }
-      },
       setDefaultGallery() {
-        this.breadCrumb.length = 0
-        this.getGallery(this.galleryFile) 
+        //console.log(`bkgallery.setDefaultGallery`)
+        this.getGallery(this.currentGalleryFile) 
       },
       setSubGallery(file) {
+        console.log(`bkgallery.setSubGallery file=${file}`)
         if (file) {
-          this.addBreadChumb ({galleryName: this.gallery.name, galleryFile: this.currentGalleryFile})
+          this.galleryFile=null;
+          this.currentGalleryFile=file
+          this.currentSubGallery = null;
           this.getGallery( file );
         }
-      } 
+      },
+      set3rdSubGallery (file) {
+        if (file) {
+          console.log(`bkgallery.set3rdSubGallery file=${file}`)
+          this.galleryFile=this.currentGalleryFile
+          this.getGallery( file );
+        }
+      }
     },
+    mounted() {
+      console.log(`bkgallery.mounted: gallery file=${this.baseGallery}`);
+      this.currentGalleryFile=this.baseGallery
+      //this.setDefaultGallery();
+    }
 });

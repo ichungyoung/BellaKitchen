@@ -1,0 +1,16 @@
+{
+    "name": "Amazing",
+    "brand": "StoneCast",
+    "basePath": "https://images.squarespace-cdn.com/content/v1/5fc01e56e5c7695ca99768f5",
+    "gridSize": "reg",
+    "images": [
+        {
+            "src": "/1608239542724-BERHL1PPVL670PQ8QL51/Amazing+-+537+060+-+Naturally+Oiled+Oak+-+Room+Scene+%28RGB%29.jpg",
+            "title": "Room"
+        },
+        {
+            "src": "/1610556332513-F7A66Y0Z73C35GGQ7MGM/Amazing+-+537+060+-+Naturally+Oiled+Oak+Multi-Plank+%28RGB%29.jpg",
+            "title": "Plank"
+        }
+    ]
+}

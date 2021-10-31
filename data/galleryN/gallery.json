@@ -1,0 +1,28 @@
+{
+    "name": "GalleryN",
+    "brand": "Next Floor",
+    "basePath": "https://images.squarespace-cdn.com/content/v1/5fc01e56e5c7695ca99768f5",
+    "gridSize": "reg",
+    "images": [
+        {
+            "src": "/1608239542724-BERHL1PPVL670PQ8QL51/Amazing+-+537+060+-+Naturally+Oiled+Oak+-+Room+Scene+%28RGB%29.jpg",
+            "title": "AMAZING",
+            "subGallery": "Amazing"
+        },
+        {
+            "src": "/1608305478531-Y0B60FW2G66IVV5YXCA1/Expanse+Plank+-+527+005+-+Colonial+Oak+-+Room+Scene+%28RGB%29.jpg",
+            "title": "EXPANSE",
+            "subGallery": "Expanse"
+        },
+        {
+            "src": "/1608306078238-5U1XLPFM699XBF4UR3GT/Incredible+-+525+204+-+Light+Oak+-+Room+Scene+%28RGB%29.jpg?format=1000w",
+            "title": "INCREDIBLE 5.0",
+            "subGallery": "Incredible5"
+        },
+        {
+            "src": "/1608306682189-P5RFP6L1N0XI4BZIITEG/Monumental+-+526+002+-+Travertino+Argento+-+Room+Scene+%28RGB%29.jpg?format=1000w",
+            "title": "MONUMENTAL",
+            "subGallery": "Monumental"
+        }
+    ]
+}

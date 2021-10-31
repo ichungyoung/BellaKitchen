@@ -1,0 +1,53 @@
+{
+    "name": "Gallery V",
+    "brand": "valinge",
+    "basePath": "https://images.squarespace-cdn.com/content/v1/5b8d3d5545776e5cef2fb594",
+    "gridSize": "reg",
+    "images": [
+        {
+            "src": "/1611658777863-2FGLMH5R4SS61J8G61D4/XL_347028_ONP12_OakNature_Honey_Allen_208_3rd_Ave-52-Edit_lores.jpg?format=300w",
+            "title": "Oak Nature | Honey"
+        },
+        {
+            "src": "/1611658775861-NQW0MINQLQ9THUJ1MSSH/XL_347027_ONP1_OakNature_Natural_719+Mollie+St-80_lores.jpg?format=300w",
+            "title": "Oak Nature | Natural"
+        },
+        {
+            "src": "/1611658754618-CR3PHOUUMKDDW8BCFYPO/XL_347024_ONP2_OakNature_MistyWhite_S_House_Farmhouses_10.16.2018-45-Edit2_lores.jpg?format=500w",
+            "title": "Oak Nature | Misty White"
+        },
+        {
+            "src": "/1611658757258-AM6AID0956JIETFLDSH2/XL_347025_ONP4_OakNature_EarthGrey_1936+Woodland+Hills+Ave-30-Edit-Recovered_lores.jpg?format=500w",
+            "title": "Oak Nature | Earth Grey"
+        },
+        {
+            "src": "/1611658780511-G8EZ64CV6WHGQ0HK9F7M/XL_347031_ASP17_AshSelect_PowderWhite_254MeadowvaleDr-38_lores.jpg?format=500w",
+            "title": "Ash Select | Powder White"
+        },
+        {
+            "src": "/1611658797482-TBYUQFHQ8UA3IGY1GP5Y/XL_347032_ASP19_AshSelect_EarthGrey_DTHubbell_1304Cambridge_11.07.2018-22-Edit_lores.jpeg?format=500w",
+            "title": "Ash Select | Earth Grey"
+        },
+        {
+            "src": "/1611658775465-GZJXRTATREWQ4XFPFETX/XL_347026_ONP5_OakNature_MineralGrey_289+Clen+Iris+2-101-Edit_lores_.jpg?format=500w",
+            "title": "Oak Nature | Mineral Grey"
+        },
+        {
+            "src": "/1611658792445-D2IDCS0R8ITWN85V8422/XL_347030_ONBP10_OakNature_HardSmoked_623+Fortune+Pl-45-Edit_lores.jpg?format=300w",
+            "title": "Oak Nature | Hard Smoked"
+        },
+        {
+            "src": "/1611658778156-5NWFFXMIXJL767I7NHLH/XL_347029_ONBP8_OakNature_MediumSmoked_1101+Niles+Ave-78-Edit_lores.jpg?format=300w",
+            "title": "Oak Nature | Medium Smoked"
+        },
+        {
+            "src": "/1611658737997-HWMPC9BJGSFPNWBWT0QJ/XL_347021_WSP13_WalnutNature_Natrual_158+Daniel+Ave-48-Edit_lowres_72dpi.jpg?format=300w",
+            "title": "Walnut Nature | Natural"
+        },
+        {
+            "src": "/1611658741449-PK8UD7VZZYFPXMRBQEB4/XL_347022_WSP11_WalnutNature_TerraBrown_Copper_Sky_Millmar-53-Edit_lowres_72dpi.jpg?format=300w",
+            "title": "Walnut Nature | Terra Brown"
+        }
+        
+    ]
+}

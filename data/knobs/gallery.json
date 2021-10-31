@@ -1,0 +1,17 @@
+{
+    "name": "Knobs and Pulls",
+    "basePath": "/images",
+    "breadCrumb": "Y",
+    "images": [
+      {
+        "src": "/D/britania.jpg",
+        "title": "Gallery D",
+        "subGallery": "galleryD"
+      },
+      {
+        "src": "/G/knobs1.png",
+        "title": "Gallery G",
+        "subGallery": "galleryG"
+      }
+    ]
+}
