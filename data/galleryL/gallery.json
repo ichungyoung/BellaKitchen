@@ -2,7 +2,7 @@
     "name": "Gallery L",
     "brand": "Lauzon",
     "basePath": "https://lauzonflooring.com/wp-content/uploads",
-    "gridSize": "tiny",
+    "gridSize": "small",
     "images": [
         {
             "src": "/2014/06/red-oak-hardwood-flooring-light-absolut-authentik-ambiance-lauzon-200x200.jpg",

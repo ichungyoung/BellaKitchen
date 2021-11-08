@@ -6,6 +6,7 @@ Vue.component('bk-gallery', {
      :currentSubGalleryFile=currentGalleryFile
      @change-menu=setSubGallery
   ></bk-submenu>
+  <div style="font-weight: bold" v-show="thirdGalleryTitle">{{thirdGalleryTitle}}</div>
   <div class="row m-3 justify-content-center">
     <div :class="gridClass" v-for="cab in displayGallery.images">
       <a class="imglnk" @click="set3rdSubGallery(cab.subGallery)">
@@ -26,6 +27,7 @@ Vue.component('bk-gallery', {
           galleryFile: '',
           currentGalleryFile: '',
           currentSubGallery: null,
+          thirdGalleryTitle: '',
           gridClass: 'col-xl-4 col-lg-6',
           bigGridClass: 'col-xl-4 col-lg-6',
           regGridClass: 'col-xl-3 col-lg-4 col-md-6',
@@ -44,6 +46,7 @@ Vue.component('bk-gallery', {
         this.currentGalleryFile=newVal
         this.galleryFile=newVal
         this.currentSubGallery = null;
+        this.thirdGalleryTitle = null;
         // this.setDefaultGallery();
       }
     },
@@ -111,13 +114,23 @@ Vue.component('bk-gallery', {
           this.galleryFile=null;
           this.currentGalleryFile=file
           this.currentSubGallery = null;
+          this.thirdGalleryTitle = null;
           this.getGallery( file );
         }
       },
       set3rdSubGallery (file) {
+        console.log(`bkgallery.set3rdSubGallery file=${file}`)
         if (file) {
-          console.log(`bkgallery.set3rdSubGallery file=${file}`)
           this.galleryFile=this.currentGalleryFile
+          // if it is in the current gallery; highlight gallery and dont show 3rd title
+          for (var img of this.gallery.images) {
+            if (img.subGallery && img.subGallery===file) {
+              this.currentGalleryFile = file;
+            }
+          }
+          if (this.currentGalleryFile!==file) {
+            this.thirdGalleryTitle = file;
+          }
           this.getGallery( file );
         }
       }

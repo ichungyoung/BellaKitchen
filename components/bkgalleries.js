@@ -96,6 +96,7 @@ Vue.component('bk-galleries', {
               }
             )
           } else {
+            this.gridClass = this.regGridClass
             //this.gallery=this.currentSubGallery;
           }
           //console.log("submenu "+this.currentSubGallery)
