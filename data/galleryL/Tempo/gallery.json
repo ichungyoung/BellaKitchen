@@ -1,0 +1,64 @@
+{
+    "name": "Tempo",
+    "brand": "Lauzon",
+    "basePath": "https://lauzonflooring.com/wp-content/uploads",
+    "gridSize": "tiny",
+    "images": [
+        {
+            "src": "/2018/12/red-oak-hardwood-flooring-cream-taupe-adagio-tempo-ambiance-lauzon-200x200.jpg",
+            "title": "Adagio"
+        },
+        {
+            "src": "/2018/12/hard-maple-hardwood-flooring-cream-taupe-adagio-tempo-ambiance-lauzon-200x200.jpg",
+            "title": "Adagio"
+        },
+        {
+            "src": "/2018/12/hard-maple-hardwood-flooring-cream-taupe-capriccio-tempo-ambiance-lauzon-200x200.jpg",
+            "title": "Capriccio"
+        },
+        {
+            "src": "/2018/12/red-oak-hardwood-flooring-cream-taupe-capriccio-tempo-ambiance-lauzon-200x200.jpg",
+            "title": "Capriccio"
+        },
+        {
+            "src": "/2018/12/hard-maple-hardwood-flooring-natural-silenzio-tempo-ambiance-lauzon-200x200.jpg",
+            "title": "Silenzio"
+        },
+        {
+            "src": "/2018/12/red-oak-hardwood-flooring-natural-silenzio-tempo-ambiance-lauzon-200x200.jpg",
+            "title": "Silenzio"
+        },
+        {
+            "src": "/2018/12/hard-maple-hardwood-flooring-cream-taupe-arabesque-tempo-ambiance-lauzon-200x200.jpg",
+            "title": "Arabesque"
+        },
+        {
+            "src": "/2018/12/red-oak-hardwood-flooring-cream-taupe-arabesque-tempo-ambiance-lauzon-200x200.jpg",
+            "title": "Arabesque"
+        },
+        {
+            "src": "/2018/12/red-oak-hardwood-flooring-gray-pulsa-tempo-ambiance-lauzon-200x200.jpg",
+            "title": "Pulsa"
+        },
+        {
+            "src": "/2018/12/hard-maple-hardwood-flooring-gray-pulsa-tempo-ambiance-lauzon-200x200.jpg",
+            "title": "Pulsa"
+        },
+        {
+            "src": "/2019/01/red-oak-hardwood-flooring-gray-brown-staccato-tempo-ambiance-lauzon-1-200x200.jpg",
+            "title": "Staccato"
+        },
+        {
+            "src": "/2019/01/hard-maple-hardwood-flooring-gray-brown-staccato-tempo-ambiance-lauzon-1-200x200.jpg",
+            "title": "Staccato"
+        },
+        {
+            "src": "/2018/12/red-oak-hardwood-flooring-brown-cadenza-tempo-ambiance-lauzon-200x200.jpg",
+            "title": "Cadenza"
+        },
+        {
+            "src": "/2018/12/hard-maple-hardwood-flooring-brown-cadenza-tempo-ambiance-lauzon-200x200.jpg",
+            "title": "Cadenza"
+        }
+    ]
+}

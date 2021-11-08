@@ -1,0 +1,22 @@
+{
+    "name": "Gallery",
+    "basePath": "/images",
+    "breadCrumb": "Y",
+    "images": [
+        {
+            "src": "/A/Aspen.png",
+            "subGallery": "cabinets",
+            "title": "Cabinets"
+        },
+        {
+            "src": "/D/britania.jpg",
+            "subGallery": "knobs",
+            "title": "Knobs and Pulls"
+        },
+        {
+            "src": "/N/Monumental+-+526+601+-+Pizarra+Rustica+-+Room+Scene+(RGB).jpg",
+            "subGallery": "flooring",
+            "title": "Flooring"
+        }
+    ]
+}

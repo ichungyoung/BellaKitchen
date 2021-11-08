@@ -1,0 +1,44 @@
+{
+    "name": "Authentik",
+    "brand": "Lauzon",
+    "basePath": "https://lauzonflooring.com/wp-content/uploads",
+    "gridSize": "tiny",
+    "images": [
+        {
+            "src": "/2014/06/red-oak-hardwood-flooring-light-absolut-authentik-ambiance-lauzon-200x200.jpg",
+            "title": "Absolut"
+        },
+        {
+            "src": "/2018/02/plancher-de-bois-chene-rouge-gris-pale-esperanza-authentik-ambiance-lauzon_1061x1061-200x200.jpg",
+            "title": "Esperanza"
+        },
+        {
+            "src": "/2014/06/red-oak-hardwood-flooring-light-nostalgia-authentik-ambiance-lauzon2-200x200.jpg",
+            "title": "Nostalgia"
+        },
+        {
+            "src": "/2018/02/plancher-de-bois-chene-rouge-gris-moyen-curioso-authentik-ambiance-lauzon_1061x1061-200x200.jpg",
+            "title": "Curioso"
+        },
+        {
+            "src": "/2018/02/plancher-de-bois-chene-rouge-gris-fonce-tormenta-authentik-ambiance-lauzon_1061x1061-200x200.jpg",
+            "title": "Tormenta"
+        },
+        {
+            "src": "/2014/06/red-oak-hardwood-flooring-ambiance-brown-candor-authentik-lauzon-200x200.jpg",
+            "title": "Candor"
+        },
+        {
+            "src": "/2014/06/red-oak-hardwood-flooring-ambiance-dark-brown-sincero-authentik-lauzon-200x200.jpg",
+            "title": "Sincero"
+        },
+        {
+            "src": "/2014/06/red-oak-hardwood-flooring-ambiance-dark-brown-ethika-authentik-lauzon-200x200.jpg",
+            "title": "Ethika"
+        },
+        {
+            "src": "/2015/03/red-oak-hardwood-flooring-dark-pacific-drama-ambiance-lauzon-200x200.jpg",
+            "title": "Drama"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Expanse",
+    "brand": "StoneCast",
+    "basePath": "https://images.squarespace-cdn.com/content/v1/5fc01e56e5c7695ca99768f5",
+    "gridSize": "reg",
+    "images": [
+        {
+            "src": "/1608305478246-72L9468KJ3KNCE33BEMJ/Expanse+Plank+-+527+715+-+Kiln+Dried+Oak+-+Room+Scene+%28RGB%29.jpg?format=1000w",
+            "title": "Room"
+        },
+        {
+            "src": "/1610573276929-8B1MW2WC8HV4PXJ24YX7/Expanse+Plank+-+527+005+-+Colonial+Oak+Multi-Plank+%28RGB%29.jpg?format=1000w",
+            "title": "Plank"
+        },
+        {
+            "src": "/1610573276160-V30PM7UD6PGA9QWRJL9A/Expanse+Plank+-+527+711+-+Silver+Smoked+Oak+Multi-Plank+%28RGB%29.jpg?format=1000w",
+            "title": "Plank"
+        }
+    ]
+}

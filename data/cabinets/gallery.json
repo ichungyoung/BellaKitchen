@@ -1,0 +1,37 @@
+{
+    "name": "Cabinets",
+    "basePath": "/images",
+    "breadCrumb": "Y",
+    "images": [
+      {
+        "src": "/A/aspen.png",
+        "title": "Gallery A",
+        "subGallery": "galleryA"
+      },
+      {
+        "src": "/B/Paramount.png",
+        "title": "Gallery B",
+        "subGallery": "galleryB"
+      },
+      {
+        "src": "/C/fashion-blue.jpg",
+        "title": "Gallery C",
+        "subGallery": "galleryC"
+      },
+      {
+        "src": "/E/Vienna.jpg",
+        "title": "Gallery E",
+        "subGallery": "galleryE"
+      },
+      {
+        "src": "/F/hero-image.jpg",
+        "title": "Gallery F",
+        "subGallery": "galleryF"
+      },
+      {
+        "src": "/B/Paramount.png",
+        "title": "Gallery H",
+        "subGallery": "galleryH"
+      }
+    ]
+}

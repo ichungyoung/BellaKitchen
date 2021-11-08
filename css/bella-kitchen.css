@@ -59,3 +59,20 @@
 /*.bottomleft {*/
 /*    transform: rotate(-90deg)*/
 /*}*/
+.fixedHeader {
+    position: fixed; 
+    width: 100%; 
+    top: 0; 
+    z-index: 100;
+}
+.relativeHeader {
+    position: relative; 
+}
+.origPicSize {
+    width: 64px;
+    height: 64px;
+}
+.smallPicSize {
+    width: 48px;
+    height: 48px;
+}

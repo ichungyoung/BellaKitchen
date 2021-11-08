@@ -1,0 +1,43 @@
+{
+    "name": "Gallery L",
+    "brand": "Lauzon",
+    "basePath": "https://lauzonflooring.com/wp-content/uploads",
+    "gridSize": "small",
+    "images": [
+        {
+            "src": "/2014/06/red-oak-hardwood-flooring-light-absolut-authentik-ambiance-lauzon-200x200.jpg",
+            "title": "Authentik",
+            "subGallery": "Authentik"
+        },
+        {
+            "src": "/2016/01/hickory-hardwood-flooring-light-persia-emira-ambiance-lauzon1-200x200.jpg",
+            "title": "Emira",
+            "subGallery": "Emira"
+        },
+        {
+            "src": "/2014/06/hard-maple-hardwood-flooring-white-bianco-elements-designer-lauzon-200x200.jpg",
+            "title": "Hamptons",
+            "subGallery": "Hamptons"
+        },
+        {
+            "src": "/2014/06/african-sapele-hardwood-flooring-brown-international-natural-designer-lauzon-200x200.jpg",
+            "title": "International",
+            "subGallery": "International"
+        },
+        {
+            "src": "/2019/03/hard-maple-hardwood-flooring-brown-natura-select-better-organik-ambiance-lauzon-200x200.jpg",
+            "title": "Organik",
+            "subGallery": "Organik"
+        },
+        {
+            "src": "/2019/10/white-oak-hardwood-flooring-brown-crema-sonoma-designer-lauzon-1-200x200.jpg",
+            "title": "Sonoma",
+            "subGallery": "Sonoma"
+        },
+        {
+            "src": "/2018/12/red-oak-hardwood-flooring-cream-taupe-adagio-tempo-ambiance-lauzon-200x200.jpg",
+            "title": "Tempo",
+            "subGallery": "Tempo"
+        }
+   ]
+}

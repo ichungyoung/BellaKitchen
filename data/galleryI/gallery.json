@@ -1,0 +1,112 @@
+{
+    "name": "Gallery I",
+    "brand": "Inhaus SONO ECLIPSE",
+    "basePath": "https://assets.website-files.com/58d6283ba9b7cbf61f6a6d6a",
+    "gridSize": "small",
+    "images": [
+        {
+            "src": "/5f91af28abd55565a1ca5f7a_53452_Baywest_Swatch.jpg",
+            "title": "BAYWEST"
+        },
+        {
+            "src": "/5f91adcd5f7d806c03b6aa73_53462_Bower_Swatch.jpg",
+            "title": "BOWER"
+        },
+        {
+            "src": "/5f91afcdd4827326499ef7c7_53448_Canim_Swatch.jpg",
+            "title": "CANIM"
+        },
+        {
+            "src": "/5f91ab5c5f7d80143eb30955_53468_CentennialSandstone_Swatch.jpg",
+            "title": "CENTENNIAL SANDSTONE"
+        },
+        {
+            "src": "/5f91ae3c9dbe1784d4114c23_53459_Coffee_Swtach.jpg",
+            "title": "COFFEE"
+        },
+        {
+            "src": "/5f91adf4d9b6370124d1aca3_53461_ForestGrove_Swatch.jpg",
+            "title": "FOREST GROVE"
+        },
+        {
+            "src": "/5f91aa1b8d34c7f17511e9e6_53457_HeartlandWalnut_Swatch.jpg",
+            "title": "HEARTLAND WALNUT"
+        },
+        {
+            "src": "/5f91ae1c43d5bd3e17351079_53460_Jasper_Swatch.jpg",
+            "title": "JASPER"
+        },
+        {
+            "src": "/60e48bfcf66fe385a1cf21ad_Swatch_53451_Liberty-Oak_7999F01_1290x203_Saronno_RGB_DMFIX.jpg",
+            "title": "LIBERTY"
+        },
+        {
+            "src": "/5f91ad1ab04741adecd6c882_53466_PearlTravertine_Swatch.jpg",
+            "title": "PEARL TRAVERTINE"
+        },
+        {
+            "src": "/5f91abd55f7d80541ab39c94_53467_PepperTravertine_Swatch.jpg",
+            "title": "PAPER TRAVERTINE"
+        },
+        {
+            "src": "/5f91ad82e68a325e77ab5e8f_53464_ReposadoCarrara_Swatch.jpg",
+            "title": "REPOSADO CARRARA"
+        },
+        {
+            "src": "/5f91aef926532e4574101a7a_54344_Riverview_Swatch.jpg",
+            "title": "RIVERVIEW"
+        },
+        {
+            "src": "/5f91afa9043b59053ba7f923_53449_Riviera_Swatch.jpg",
+            "title": "RIVIERA"
+        },
+        {
+            "src": "/5f91aaf31edfaaa35b058510_53444_Saloon_Swatch.jpg",
+            "title": "SALOON"
+        },
+        {
+            "src": "/5f91b04e2e8f7151770f737e_53446_Sandhill_Swtach.jpg",
+            "title": "SANDHILL"
+        },
+        {
+            "src": "/5f91aab117272f18b0fe9c3e_53456_SantaFe_Swatch.jpg",
+            "title": "SANTA FE"
+        },
+        {
+            "src": "/5f91aea326532e79b60fc626_53455_Seawashed_Swatch.jpg",
+            "title": "SEAWASHED"
+        },
+        {
+            "src": "/5f91ada72c1663e653c255af_53465_SesameSandstone_Swatch.jpg",
+            "title": "SESAME SANDSTONE"
+        },
+        {
+            "src": "/5f91ab2b56ac2affd5a7e28c_53469_Shadowcastle_Swatch.jpg",
+            "title": "SHADOW CASTLE"
+        },
+        {
+            "src": "/60a5796e907dad80a24fa211_53463_SheridanBay_Swatch_DK7596F33_1290_203_4V_4003_Reclaimed%20Oak_1S_FLO.jpg",
+            "title": "SHERIDAN"
+        },
+        {
+            "src": "/5f91aff928711863a9f1f44c_53447_Streamwashed_Swatch.jpg",
+            "title": "STREAMWASHED"
+        },
+        {
+            "src": "/5f91af802e8f712ec30e4e67_53450_Sunwashed_Swatch.jpg",
+            "title": "SUNWASHED"
+        },
+        {
+            "src": "/5f91aed1830fc4422c3c3da9_53454_TobaccoOak_Swatch.jpg",
+            "title": "TOBACCO OAK"
+        },
+        {
+            "src": "/5f91ae7160f38a12be24fcae_53458_TrimbleWhiteOak__Swatch.jpg",
+            "title": "TRIMBLE WHITE OAK"
+        },
+        {
+            "src": "/5f91b077b3c4ade67d3d8098_53445_Winter_Oak%20_Swatch.jpg",
+            "title": "WINTER OAK"
+        }
+    ]
+}
