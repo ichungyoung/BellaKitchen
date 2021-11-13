@@ -22,7 +22,6 @@ Vue.component('bk-header', {
                 src="/images/bella-kitchen-logo-transparent.png" alt="logo" /></span>
             </button>
             <a class="navbar-brand h1" href="#">BELLA KITCHEN</a>
-            <span>{{scrollValue}} {{(isAtTop?'true':'false')}}</span>
             <div id="navbarTogglerDemo01" class="collapse navbar-collapse">
                 <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
                     <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
@@ -61,7 +60,7 @@ Vue.component('bk-header', {
     },
     computed: {
         isAtTop: function () {
-            return this.scrollValue < 15;
+            return true; //this.scrollValue < 15;
         }
     },
     methods: {
