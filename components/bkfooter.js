@@ -8,7 +8,7 @@ Vue.component('bk-footer', {
     </div>
     <div class="d-flex">
     <div class="left"></div>
-    <div class="navbar navbar-expand-md navbar-custom text-white flex-fill" style="background-image: url(/images/gray-velvet-fabric.jpg);">
+    <div class="navbar navbar-expand-md navbar-custom text-white flex-fill" style="background-image: url(images/gray-velvet-fabric.jpg);">
     <ul class="navbar-nav mr-auto ml-auto">
         <li class="nav-item">
         <span class="nav-link" >
