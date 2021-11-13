@@ -11,15 +11,15 @@ Vue.component('bk-header', {
     </div>
     <div class="d-flex">
     <div class="left"></div>
-    <div class="text-white flex-fill" style="background-image: url(/images/gray-velvet-fabric.jpg);">
+    <div class="text-white flex-fill" style="background-image: url(images/gray-velvet-fabric.jpg);">
         <nav class="navbar navbar-expand-md navbar-custom navbar-dark">
             <span class="d-none d-md-block"><img v-bind:class="{origPicSize: isAtTop, smallPicSize: !isAtTop}"
-            src="/images/bella-kitchen-logo-transparent.png" alt="logo" /></span>
+            src="images/bella-kitchen-logo-transparent.png" alt="logo" /></span>
             <button class="navbar-toggler" type="button" style="padding: 0; border: 0;"
                 data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                 <span><img 
-                v-bind:class="{origPicSize: isAtTop, smallPicSize: !isAtTop}"
-                src="/images/bella-kitchen-logo-transparent.png" alt="logo" /></span>
+                class="smallPicSize"
+                src="images/bella-kitchen-logo-transparent.png" alt="logo" /></span>
             </button>
             <a class="navbar-brand h1" href="#">BELLA KITCHEN</a>
             <div id="navbarTogglerDemo01" class="collapse navbar-collapse">
@@ -31,8 +31,8 @@ Vue.component('bk-header', {
                     <li class="nav-item"><a class="nav-link" href="about.html">Contact Us</a></li>
                 </ul>
                 <audio autoplay loop muted id="audio" @play="audioPlayed" @pause="audioPaused">
-                <source src="../audio/background.mp3" type="audio/mpeg">
-                <source src="../audio/background.ogg" type="audio/ogg">
+                <source src="./audio/background.mp3" type="audio/mpeg">
+                <source src="./audio/background.ogg" type="audio/ogg">
                 Your browser does not support the video tag.
             </audio>
             <span @click="playMusic" title="Background Music" class="mt-2 fas fa-md" style="color: white;"
