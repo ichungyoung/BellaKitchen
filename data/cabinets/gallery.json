@@ -32,6 +32,18 @@
         "src": "/B/Paramount.png",
         "title": "Gallery H",
         "subGallery": "galleryH"
+      },
+      {
+      "src": "/V/XL_347025_ONP4_OakNature_EarthGrey_1936+Woodland+Hills+Ave-30-Edit-Recovered_lores.jpg",
+      "brand": "Holiday Kitchens",
+      "title": "Gallery K",
+      "subGallery": "galleryK"
+    },
+    {
+    "src": "/V/XL_347025_ONP4_OakNature_EarthGrey_1936+Woodland+Hills+Ave-30-Edit-Recovered_lores.jpg",
+    "brand": "Urban Bonfire",
+    "title": "Gallery U",
+    "subGallery": "galleryU"
       }
     ]
 }
