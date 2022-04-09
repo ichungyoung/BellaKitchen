@@ -7,37 +7,37 @@
         {
             "src": "/I/5f8a43c7c66732746793a8d3_53444_Saloon_Room_Scene.jpg",
             "brand": "Lauzon",
-            "title": "Gallery I",
+            "title": "Gallery A",
             "subGallery": "galleryI"
         },
         {
             "src": "/L/dining-room-white-oak-hardwood-flooring-serenity-designer-lauzon-1.jpg",
             "brand": "Lauzon",
-            "title": "Gallery L",
+            "title": "Gallery B",
             "subGallery": "galleryL"
         },
         {
             "src": "/M/2021_hero_categories_hardwood_MountainViewXL_Platinum_MVXL06PT1.jpg",
             "brand": "Mannington",
-            "title": "Gallery M",
+            "title": "Gallery C",
             "subGallery": "galleryM"
         },
         {
             "src": "/N/Monumental+-+526+601+-+Pizarra+Rustica+-+Room+Scene+(RGB).jpg",
             "brand": "Next Floor",
-            "title": "Gallery N",
+            "title": "Gallery D",
             "subGallery": "galleryN"
         },
       {
         "src": "/S/lg_grey.jpg",
         "brand": "Somerset",
-        "title": "Gallery S",
+        "title": "Gallery E",
         "subGallery": "galleryS"
     },
         {
         "src": "/V/XL_347025_ONP4_OakNature_EarthGrey_1936+Woodland+Hills+Ave-30-Edit-Recovered_lores.jpg",
         "brand": "Valinge",
-        "title": "Gallery V",
+        "title": "Gallery F",
         "subGallery": "galleryV"
         }
     ]

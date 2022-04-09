@@ -1,0 +1,102 @@
+{
+    "name": "GalleryU",
+    "basePath": "https://cdn.shopify.com/s/files/1/0452/8567/1069/products",
+    "images": [
+        {
+            "src": "/Breeze36-Anthracite_300x.jpg?v=1648691249",
+            "title": "Breeze 36 Anthracite"
+        },
+        {
+            "src": "/Breeze36-Chantilly_300x.jpg?v=1648691249",
+            "title": "Breeze 36 Chantilly"
+        },
+        {
+            "src": "/Breeze42-Clay_300x.jpg?v=1648691253",
+            "title": "Breeze 42 Clay"
+        },
+        {
+            "src": "/Breeze42-Anthracite_300x.jpg?v=1648691253",
+            "title": "Breeze 42 Anthracite"
+        },
+        {
+            "src": "/Celeste-Anthracite_300x.jpg?v=1648691342",
+            "title": "Celeste Anthracite"
+        },
+        {
+            "src": "/Celeste-Chantilly_300x.jpg?v=1648691342",
+            "title": "Celeste Chantilly"
+        },
+        {
+            "src": "/Cirrus36-Anthracite_300x.jpg?v=1648691265",
+            "title": "Cirrus 36 Anthracite"
+        },
+        {
+            "src": "/Cirrus36-Chantilly_300x.jpg?v=1648691265",
+            "title": "Cirrus 36 Chantilly"
+        },
+        {
+            "src": "/Cirrus42-Anthracite_300x.jpg?v=1648691258",
+            "title": "Cirrus 42 Anthracite"
+        },
+        {
+            "src": "/Cirrus42-Chantilly_300x.jpg?v=1648691258",
+            "title": "Cirrus 42 Chantilly"
+        },
+        {
+            "src": "/Cove36-Chantilly_300x.jpg?v=1648691269",
+            "title": "Cove 36 Chantilly"
+        },
+        {
+            "src": "/Cove36-Anthracite_300x.jpg?v=1648691269",
+            "title": "Cove 36 Anthracite"
+        },
+        {
+            "src": "/Cove42-Chantilly_300x.jpg?v=1648691279",
+            "title": "Cove 42 Chantilly"
+        },
+        {
+            "src": "/Cove42-Clay_300x.jpg?v=1648691279",
+            "title": "Cove 42 Clay"
+        },
+        {
+            "src": "/Dawn36-Anthracite_300x.jpg?v=1648691379",
+            "title": "Dawn 36 Anthracite"
+        },
+        {
+            "src": "/Dawn36-Chantilly_300x.jpg?v=1648691379",
+            "title": "Dawn 36 Chantilly"
+        },
+        {
+            "src": "/Dawn42-Clay_300x.jpg?v=1648691385",
+            "title": "Dawn 42 Clay"
+        },
+        {
+            "src": "/Dawn42-Anthracite_300x.jpg?v=1648691385",
+            "title": "Dawn 42 Anthracite"
+        },
+        {
+            "src": "/Dew36-Anthracite_300x.jpg?v=1648691275",
+            "title": "Dew 36 Anthracite"
+        },
+        {
+            "src": "/Dew36-Chantilly_300x.jpg?v=1648691275",
+            "title": "Dew 36 Chantilly"
+        },
+        {
+            "src": "/Dew42-Anthracite_300x.jpg?v=1648691286",
+            "title": "Dew 42 Anthracite"
+        },
+        {
+            "src": "/Dew42-Clay_300x.jpg?v=1648691286",
+            "title": "Dew 42 Clay"
+        },
+        {
+            "src": "/Dusk36-Clay_300x.jpg?v=1648691392",
+            "title": "Dusk 36 Clay"
+        },
+        {
+            "src": "/Dusk36-Chantilly_300x.jpg?v=1648691392",
+            "title": "Dusk 36 Chantilly"
+        }
+    ]
+}

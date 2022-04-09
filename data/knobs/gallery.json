@@ -5,12 +5,12 @@
     "images": [
       {
         "src": "/D/britania.jpg",
-        "title": "Gallery D",
+        "title": "Gallery A",
         "subGallery": "galleryD"
       },
       {
         "src": "/G/knobs1.png",
-        "title": "Gallery G",
+        "title": "Gallery B",
         "subGallery": "galleryG"
       }
     ]
