@@ -3,14 +3,44 @@
     "basePath": "https://www.topknobs.com/media/catalog/category",
     "images": [
       {
-        "src": "/Dakota_1.jpg",
-        "title": "Dakota",
-        "subGallery": "Dakota"
+        "src": "/Additions_1.jpg",
+        "title": "Additions",
+        "subGallery": "Additions"
+      },          
+      {
+        "src": "/Appliance_1.jpg",
+        "title": "Appliance",
+        "subGallery": "Appliance"
+      },          
+      {
+        "src": "/Asbury_1.jpg",
+        "title": "Asbury",
+        "subGallery": "Asbury"
+      },          
+      {
+        "src": "/Aspen_1.jpg",
+        "title": "Aspen",
+        "subGallery": "Aspen"
+      },          
+      {
+        "src": "/AspenII_1.jpg",
+        "title": "Aspen II",
+        "subGallery": "Aspen II"
+      },          
+      {
+        "src": "/BarPull_1.jpg",
+        "title": "Bar Pull",
+        "subGallery": "Bar Pull"
+      },          
+      {
+        "src": "/Barrington_1.jpg",
+        "title": "Barrington",
+        "subGallery": "Barrington"
       },
       {
-        "src": "/Normandy_1.jpg",
-        "title": "Normandy",
-        "subGallery": "Normandy"
+        "src": "/Bath_1.jpg",
+        "title": "Bath",
+        "subGallery": "Bath"
       },
       {
         "src": "/Britannia_3.jpg",
@@ -18,14 +48,109 @@
         "subGallery": "Britannia"
       },
       {
-        "src": "/Asbury_1.jpg",
-        "title": "Asbury",
-        "subGallery": "Asbury"
-      },          
+        "src": "/Chareau_1.jpg",
+        "title": "Chareau",
+        "subGallery": "Chareau"
+      },
+      {
+        "src": "/Cobblestone_1.jpg",
+        "title": "Cobblestone",
+        "subGallery": "Cobblestone"
+      },
+      {
+        "src": "/Dakota_1.jpg",
+        "title": "Dakota",
+        "subGallery": "Dakota"
+      },
+      {
+        "src": "/Devon_1.jpg",
+        "title": "Devon",
+        "subGallery": "Devon"
+      },
+      {
+        "src": "/Edwardian_1.jpg",
+        "title": "Edwardian",
+        "subGallery": "Edwardian"
+      },
+      {
+        "src": "/Ellis_1.jpg",
+        "title": "Ellis",
+        "subGallery": "Ellis"
+      },
+      {
+        "src": "/Grace_1.jpg",
+        "title": "Grace",
+        "subGallery": "Grace"
+      },
+      {
+        "src": "/Lynwood_1.jpg",
+        "title": "Lynwood",
+        "subGallery": "Lynwood"
+      },
+      {
+        "src": "/Mercer_1.jpg",
+        "title": "Mercer",
+        "subGallery": "Mercer"
+      },
+      {
+        "src": "/Normandy_1.jpg",
+        "title": "Normandy",
+        "subGallery": "Normandy"
+      },
+      {
+        "src": "/Nouveau_1.jpg",
+        "title": "Nouveau",
+        "subGallery": "Nouveau"
+      },
+      {
+        "src": "/Oil_Rubbed_Bronze.jpg",
+        "title": "Oil Rubbed Bronze",
+        "subGallery": "Oil_Rubbed_Bronze"
+      },
+      {
+        "src": "/Passport_1.jpg",
+        "title": "Passport",
+        "subGallery": "Passport"
+      },
+      {
+        "src": "/Regents_Park_650x450.jpg",
+        "title": "Regent's Park",
+        "subGallery": "Regents_Park"
+      },
       {
         "src": "/Sanctuary_1.jpg",
         "title": "Sanctuary",
         "subGallery": "Sanctuary"
+      },
+      {
+        "src": "/SanctuaryII_1.jpg",
+        "title": "Sanctuary II",
+        "subGallery": "Sanctuary II"
+      },
+      {
+        "src": "/Serene_1.jpg",
+        "title": "Serene",
+        "subGallery": "Serene"
+      },
+      {
+        "src": "/Somerset_1.jpg",
+        "title": "Somerset",
+        "subGallery": "Somerset"
+      },
+      {
+        "src": "/Stainless_1.jpg",
+        "title": "Stainless",
+        "subGallery": "Stainless"
+      },
+      {
+        "src": "/Transcend_1.jpg",
+        "title": "Transcend",
+        "subGallery": "Transcend"
+      },
+      {
+        "src": "/Tuscany_1.jpg",
+        "title": "Tuscany",
+        "subGallery": "Tuscany"
       }
     ]
   }

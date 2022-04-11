@@ -1,0 +1,39 @@
+{
+    "name": "Somerset",
+    "basePath": "https://www.topknobs.com/media/catalog/product",
+    "gridSize": "small",
+    "images": [
+        {
+            "src": "/A/r/Arendal_Cup_Pull_0_rect_0dc8c7.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+            "title": "Arendal Cup Pull"
+        },
+        {
+            "src": "/A/r/Arendal_Pull_0_rect_3ce240.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+            "title": "Arendal Pull"
+        },
+        {
+            "src": "/V/o/Voss_Pull_0_rect_3ac415.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+            "title": "Voss Pull"
+        },
+        {
+            "src": "/E/g/Egg_Knob_0_0b2f5d.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+            "title": "Egg Knob"
+        },
+        {
+            "src": "/H/o/Hollow_Round_Knob_0_ca4837.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+            "title": "Hollow Round Knob"
+        },
+        {
+            "src": "/S/o/Somerset_Cup_Pull_0_rect_af5add.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+            "title": "Somerset Cup Pull"
+        },
+        {
+            "src": "/S/o/Somerset_Pull_0_rect_a08088.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+            "title": "Somerset Pull"
+        },
+        {
+            "src": "/S/t/Star_Pull_0_rect_87eb80.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+            "title": "Star Pull"
+        }
+    ]
+}

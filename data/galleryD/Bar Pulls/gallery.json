@@ -1,0 +1,35 @@
+{
+  "name": "Bar Pull",
+  "basePath": "https://www.topknobs.com/media/catalog/product",
+  "gridSize": "small",
+  "images": [
+    {
+      "src": "/A/m/Amwell_Bar_Pull_0_rect_7a300a.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Amwell Bar Pull"
+    },
+    {
+      "src": "/H/o/Hopewell_Bar_Pull_0_rect_d3cdbd.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Hopewell Bar Pull"
+    },
+    {
+      "src": "/H/o/Hopewell_T-Handle_0_589cdf.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Hopewell T-Handle"
+    },
+    {
+      "src": "/P/e/Pennington_Bar_Pull_0_rect_427565.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Pennington Bar Pull"
+    },
+    {
+      "src": "/P/r/Princetonian_Bar_Pull_0_rect_5daa96.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Princetonian Bar Pull"
+    },
+    {
+      "src": "/P/r/Princetonian_Bar_Pull_3_Posts_0_rect_b59615.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Princetonian Bar Pull 3 Posts"
+    },
+    {
+      "src": "/W/e/Wellington_Bar_Pull_0_rect_9a1a93.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Wellington Bar Pull"
+    }
+  ]
+}

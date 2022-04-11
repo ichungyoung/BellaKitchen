@@ -1,0 +1,30 @@
+{
+  "name": "Cobblestone",
+  "basePath": "https://www.topknobs.com/media/catalog/product",
+  "gridSize": "small",
+  "images": [{
+  "src": "/C/o/Cobblestone_Oval_Knob_0_140a62.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+  "title": "Cobblestone Oval Knob"
+},
+
+{
+  "src": "/C/o/Cobblestone_Pull_0_rect_28971e.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+  "title": "Cobblestone Pull"
+},
+
+{
+  "src": "/C/o/Cobblestone_Rectangle_Knob_0_efc4e9.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+  "title": "Cobblestone Rectangle Knob"
+},
+
+{
+  "src": "/C/o/Cobblestone_Round_Knob_0_40c663.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+  "title": "Cobblestone Round Knob"
+},
+
+{
+  "src": "/C/o/Cobblestone_Square_Knob_0_1e5b0f.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+  "title": "Cobblestone Square Knob"
+}]
+}
+

@@ -1,0 +1,55 @@
+{
+  "name": "Chareau",
+  "basePath": "https://www.topknobs.com/media/catalog/product",
+  "gridSize": "small",
+  "images": [
+    {
+      "src": "/C/h/Chalet_Knob_0_436119.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Chalet Knob"
+    },
+    {
+      "src": "/C/h/Chalet_Pull_0_rect_351e9c.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Chalet Pull"
+    },
+    {
+      "src": "/C/H/CHAREAU__D_Pull_0_rect_3564f4.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "CHAREAU® D Pull"
+    },
+    {
+      "src": "/C/H/CHAREAU__T-Handle_0_cfe99b.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "CHAREAU® T-Handle"
+    },
+    {
+      "src": "/C/r/Crystal_Emerald_Knob_0_89c08f.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Crystal Emerald Knob"
+    },
+    {
+      "src": "/E/m/Emerald_Knob_0_d2ed1c.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Emerald Knob"
+    },
+    {
+      "src": "/E/m/Emerald_Pull_0_rect_0bc26f.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Emerald Pull"
+    },
+    {
+      "src": "/R/e/Reeded_Knob_0_9307bd.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Reeded Knob"
+    },
+    {
+      "src": "/R/e/Reeded_Pull_0_rect_803597.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Reeded Pull"
+    },
+    {
+      "src": "/S/h/Shrewsbury_D_Pull_0_rect_e8d8f6.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Shrewsbury D Pull"
+    },
+    {
+      "src": "/S/h/Shrewsbury_Knob_0_4054d8.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Shrewsbury Knob"
+    },
+    {
+      "src": "/S/h/Shrewsbury_Small_T-Handle_0_c760a3.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Shrewsbury Small T-Handle"
+    }
+  ]
+}

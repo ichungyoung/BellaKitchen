@@ -1,0 +1,47 @@
+{
+  "name": "Regent's Park",
+  "basePath": "https://www.topknobs.com/media/catalog/product",
+  "gridSize": "small",
+  "images": [
+    {
+      "src": "/C/l/Clarence_Knob_0_e5fa00.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Clarence Knob"
+    },
+    {
+      "src": "/C/l/Clarence_Pull_0_rect_62dae4.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Clarence Pull"
+    },
+    {
+      "src": "/C/l/Clarence_T-Knob_0_6922dc.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Clarence T-Knob"
+    },
+    {
+      "src": "/C/u/Cumberland_Pull_0_rect_cca589.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Cumberland Pull"
+    },
+    {
+      "src": "/K/i/Kingsmill_Knob_0_abc7d2.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Kingsmill Knob"
+    },
+    {
+      "src": "/K/i/Kingsmill_Pull_0_rect_7352e3.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Kingsmill Pull"
+    },
+    {
+      "src": "/O/r/Ormonde_Knob_0_f71b05.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Ormonde Knob"
+    },
+    {
+      "src": "/O/r/Ormonde_Pull_0_rect_3d72bb.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Ormonde Pull"
+    },
+    {
+      "src": "/U/l/Ulster_Knob_0_37b43f.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Ulster Knob"
+    },
+    {
+      "src": "/U/l/Ulster_Pull_0_rect_f02669.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Ulster Pull"
+    }
+  ]
+}

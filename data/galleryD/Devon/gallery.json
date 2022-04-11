@@ -1,0 +1,51 @@
+{
+  "name": "Devon",
+  "basePath": "https://www.topknobs.com/media/catalog/product",
+  "gridSize": "small",
+  "images": [
+    {
+      "src": "/B/r/Brixton_Backplate_0_02bbcb.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Brixton Backplate"
+    },
+    {
+      "src": "/B/r/Brixton_Button_Knob_0_7e4200.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Brixton Button Knob"
+    },
+    {
+      "src": "/B/r/Brixton_Pull_0_rect_eee5aa.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Brixton Pull"
+    },
+    {
+      "src": "/B/r/Brixton_Ridged_Knob_0_f3f9f4.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Brixton Ridged Knob"
+    },
+    {
+      "src": "/B/r/Brixton_Rimmed_Knob_0_2e1439.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Brixton Rimmed Knob"
+    },
+    {
+      "src": "/E/x/Exeter_Pull_0_rect_9aa4e2.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Exeter Pull"
+    },
+    {
+      "src": "/K/i/Kingsbridge_Knob_0_bbe5df.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Kingsbridge Knob"
+    },
+    {
+      "src": "/K/i/Kingsbridge_Pull_0_rect_6e3f25.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Kingsbridge Pull"
+    },
+    {
+      "src": "/T/o/Torbay_Pull_0_rect_cb5214.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Torbay Pull"
+    },
+    {
+      "src": "/A/l/Allington_Knob_0_6ecc5c.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Allington Knob"
+    },
+    {
+      "src": "/A/l/Allington_Pull_0_rect_f18629.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Allington Pull"
+    }
+  ]
+}

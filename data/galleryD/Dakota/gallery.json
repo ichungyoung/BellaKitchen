@@ -1,71 +1,67 @@
 {
-    "name": "Dakota",
-    "basePath": "https://www.topknobs.com/media/catalog/product",
-    "gridSize": "small",
-    "images": [
-      {
-        "src": "/B/e/Bergen_Knob_0.jpg",
-        "title": "BERGEN KNOB"
-      },
-      {
-        "src": "/B/i/Bit_Pull_0_rect.jpg",
-        "title": "BIT PULL"
-      },
-      {
-        "src": "/B/u/Buckle_Pull_0_rect.jpg",
-        "title": "BUCKLE PULL"
-      },          
-      {
-        "src": "/C/h/Charlotte_Cup_Pull_0_rect.jpg",
-        "title": "CHARLOTTE CUP PULL"
-      },          
-      {
-        "src": "/C/h/Charlotte_Pull_0_rect.jpg",
-        "title": "CHARLOTTE PULL"
-      },
-      {
-        "src": "/D/a/Dakota_Cup_Pull_0_rect.jpg",
-        "title": "DAKOTA CUP PULL"
-      },
-      {
-        "src": "/D/a/Dakota_Oval_Knob_0.jpg",
-        "title": "DAKOTA OVAL KNOB"
-      },
-      {
-        "src": "/O/v/Oval_Knob_0.jpg",
-        "title": "OVAL KNOB"
-      },
-      {
-        "src": "/A/n/Angle_Pull_0_rect.jpg",
-        "title": "ANGLE PULL"
-      },
-      {
-        "src": "/A/r/Arc_Pull_0_rect.jpg",
-        "title": "ARC PULL"
-      },
-      {
-        "src": "/F/l/Flat_Top_Knob_0.jpg",
-        "title": "FLAT TOP KNOB"
-      },
-      {
-        "src": "/H/u/Hudson_Knob_0.jpg",
-        "title": "HUDSON KNOB"
-      },
-      {
-        "src": "/L/i/Lida_Pull_0_rect.jpg",
-        "title": "LINDA PULL"
-      },
-      {
-        "src": "/P/e/Peak_Knob_0.jpg",
-        "title": "PEAK KNOB"
-      },
-      {
-        "src": "/R/o/Rounded_Knob_0.jpg",
-        "title": "ROUNDED KNOB"
-      },
-      {
-        "src": "/S/a/Saddle_Pull_0_rect.jpg",
-        "title": "SADDLE PULL"
-      }
-    ]
-  }
+  "name": "Dakota",
+  "basePath": "https://www.topknobs.com/media/catalog/product",
+  "gridSize": "small",
+  "images": [
+    {
+      "src": "/B/i/Bit_Pull_0_rect_dd3d8e.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Bit Pull"
+    },
+    {
+      "src": "/B/u/Buckle_Pull_0_rect_a39fae.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Buckle Pull"
+    },
+    {
+      "src": "/C/h/Charlotte_Cup_Pull_0_rect_5185eb.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Charlotte Cup Pull"
+    },
+    {
+      "src": "/C/h/Charlotte_Pull_0_rect_32e97a.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Charlotte Pull"
+    },
+    {
+      "src": "/D/a/Dakota_Cup_Pull_0_rect_7e5741.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Dakota Cup Pull"
+    },
+    {
+      "src": "/D/a/Dakota_Oval_Knob_0_5dc504.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Dakota Oval Knob"
+    },
+    {
+      "src": "/O/v/Oval_Knob_0_a19ab6.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Oval Knob"
+    },
+    {
+      "src": "/A/n/Angle_Pull_0_rect_85250a.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Angle Pull"
+    },
+    {
+      "src": "/A/r/Arc_Pull_0_rect_ce270a.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Arc Pull"
+    },
+    {
+      "src": "/F/l/Flat_Top_Knob_0_386f1b.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Flat Top Knob"
+    },
+    {
+      "src": "/H/u/Hudson_Knob_0_8596cb.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Hudson Knob"
+    },
+    {
+      "src": "/L/i/Lida_Pull_0_rect_7e82e1.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Lida Pull"
+    },
+    {
+      "src": "/P/e/Peak_Knob_0_2695c4.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Peak Knob"
+    },
+    {
+      "src": "/R/o/Rounded_Knob_0_3db52c.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=220",
+      "title": "Rounded Knob"
+    },
+    {
+      "src": "/S/a/Saddle_Pull_0_rect_e04fb1.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=220&amp;width=440",
+      "title": "Saddle Pull"
+    }
+  ]
+}
